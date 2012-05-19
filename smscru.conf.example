@@ -1,0 +1,23 @@
+[common]
+# Логин и пароль для smsc.ru
+# Пароль лучше в md5
+login=
+password=  
+
+[http]
+use_post=0 
+use_https=0
+charset=utf-8
+debug=0
+translit=0
+sender=
+timeout=2
+retries=3
+retry_pause=1
+
+[smtp]
+server=localhost
+#Логин и пароль для smtp-сервера, через который отправляешь письмо
+#login=
+#password=
+from=server@company.com
