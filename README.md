@@ -26,7 +26,7 @@ CLI usage:
 
 Copy smscru.conf.example to /etc/smscru.conf and set your login and password.
 
-	$ smscpy.py send 79169999999 "Hello, world!"
+	$ smscru msg 79169999999 "Hello, world!"
 	
 	
 

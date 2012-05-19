@@ -26,7 +26,7 @@ settings.update(
     author_email='s@lavrinenko.ru',
     url='https://github.com/lavr/python-smscru',
     py_modules= ['pysmscru',],
-    scripts=['smscru.py', ],
+    scripts=['smscru', ],
     install_requires=[],
     license='BSD',
     classifiers=(
