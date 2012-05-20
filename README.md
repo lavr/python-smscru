@@ -29,4 +29,6 @@ Copy [smscru.conf.example](/lavr/python-smscru/blob/master/smscru.conf.example) 
 	$ smscru msg 79169999999 "Hello, world\!" --config=/etc/smscru.conf 
 	
 	
+	
+[![Build Status](https://secure.travis-ci.org/lavr/python-smscru.png?branch=master)](http://travis-ci.org/lavr/python-smscru)
 
