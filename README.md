@@ -24,7 +24,7 @@ API usage:
 CLI usage:
 ----------
 
-Copy smscru.conf.example to /etc/smscru.conf and set your login and password.
+Copy [smscru.conf.example](/lavr/python-smscru/blob/master/smscru.conf.example) to /etc/smscru.conf and set your login and password.
 
 	$ smscru msg 79169999999 "Hello, world\!" --config=/etc/smscru.conf 
 	
